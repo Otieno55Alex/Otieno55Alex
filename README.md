@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning full-stack Engineering at Codecademy
 - 💞️ I’m looking to collaborate on code review,code testing and software development in general using the various available technologies
-- 📫 You can reach me on linked-in at Alex Otieno 
+- 📫 You can reach me on github at  @Otieno55Alex or on  linked-in at Alex Otieno 
 
 <!---
 Otieno55Alex/Otieno55Alex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
